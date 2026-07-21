@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:red_wool": 64,
+      "minecraft:crafting_table": 1,
+      "minecraft:stone": 2,
+      "minecraft:flint_and_steel": 1,
+      "minecraft:oak_leaves": 1,
+      "minecraft:name_tag": 1,
+      "minecraft:fire_charge": 1,
+      "minecraft:anvil": 1,
+      "minecraft:written_book": 1,
+      "minecraft:dirt": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 1
+    },
+    "minecraft:killed": {
+      "minecraft:mannequin": 2
+    },
+    "minecraft:used": {
+      "minecraft:wooden_axe": 6,
+      "minecraft:written_book": 12
+    },
+    "minecraft:crafted": {
+      "minecraft:written_book": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 862017,
+      "minecraft:walk_one_cm": 31104,
+      "minecraft:leave_game": 16,
+      "minecraft:mob_kills": 2,
+      "minecraft:damage_dealt": 242,
+      "minecraft:play_time": 862017,
+      "minecraft:jump": 65,
+      "minecraft:time_since_death": 862017,
+      "minecraft:drop": 11,
+      "minecraft:sprint_one_cm": 9378,
+      "minecraft:inspect_hopper": 3,
+      "minecraft:total_world_time": 881885,
+      "minecraft:fly_one_cm": 7913426,
+      "minecraft:interact_with_anvil": 1,
+      "minecraft:walk_on_water_one_cm": 966,
+      "minecraft:crouch_one_cm": 8682,
+      "minecraft:sneak_time": 5729
+    }
+  },
+  "DataVersion": 4903
+}
