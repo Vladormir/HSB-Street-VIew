@@ -15,11 +15,8 @@
     "mapDataRoot": "maps",
     "liveDataRoot": "maps",
     "maps": [
-        "nether",
         "Room_World",
-        "end",
-        "Dungeon_Hub",
-        "overworld"
+        "Dungeon_Hub"
     ],
     "scripts": [],
     "styles": []
